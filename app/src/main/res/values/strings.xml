@@ -3,4 +3,7 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pwd"><u>Forgot your Password?</u></string>
+    <string name="signup">New here? <u>Sign Up instead</u></string>
+    <string name="login">Do you have an account? <u><b>Log in</b></u></string>
 </resources>
