@@ -3,13 +3,13 @@
 
 * **Android Based Project**
 
+* **Developer** 
+  > Tejas Patel - 2091244
+
 * **Software Used**
   - Android Studio 
   - Firebase  (Database)
 
-* **Developer** 
-  > Tejas Patel - 2091244
-  
 * **Additional Features** 
   - Password Visibility
   - Forgot Password Reset Method using Firebase
