@@ -8,4 +8,15 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="ThemeToolbar" >
+        <item name="android:listDivider">@color/colorGrey</item>
+        <item name="android:textColorSecondary">@color/colorGrey</item>
+    </style>
+
+
+
+    <style name="ThemeSelector" parent="@android:style/TextAppearance" id= "myTheme">
+        <item name="android:textColor">@color/colorGrey</item>
+    </style>
+
 </resources>
