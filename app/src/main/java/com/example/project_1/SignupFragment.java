@@ -230,6 +230,7 @@ public class SignupFragment extends Fragment {
                         if (task.isSuccessful())
                         {
                             Toast.makeText(getActivity().getApplicationContext(),"Registration Successful!",Toast.LENGTH_LONG).show();
+                            FirebaseAuth.getInstance().signOut();
                             navController.navigate(R.id.action_signupFragment_to_loginFragment);
 
                         }else

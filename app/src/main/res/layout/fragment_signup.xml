@@ -177,7 +177,7 @@
 
             <TextView
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_height="80dp"
                 android:id="@+id/LoginText"
                 android:text="@string/login"
                 android:layout_marginTop="740dp"
